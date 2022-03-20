@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyThreePagesPassingParameters</string>
+    <string name="first_page">First page</string>
+    <string name="second_page">Second Page</string>
+    <string name="third_page">Third Page</string>
+    <string name="go_to_second_page">Go to 2nd Page</string>
+    <string name="go_to_third_page">Go to 3rd Page</string>
+    <string name="go_to_First_page">Go to 1st Page</string>
+    <string name="coming_from_page">"Coming from page: "</string>
+    <string name="i_am_in_page">"I am in Page: "</string>
+    <string name="coming_from_text">"coming_from_text"</string>
+</resources>
